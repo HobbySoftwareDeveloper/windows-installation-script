@@ -4,7 +4,7 @@ setlocal
 :: Prompt user to choose between installation and recovery environment
 :option
 echo Choose an option:
-echo [1] Install Windows 11
+echo [1] Install Windows
 echo [2] Launch Recovery Environment
 set /p choice=Enter your choice (1 or 2): 
 goto choice
